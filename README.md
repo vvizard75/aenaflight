@@ -18,3 +18,6 @@ aenaflight.tablename=aenaflight_2017_01
 ```
 
 If you interrupted process, application start from stopped location.
+
+Run application 
+```java -jar aenaflight-0.0.1-SNAPSHOT.jar```
