@@ -1,10 +1,10 @@
 # ETL application
 
 ## Default setting
-Name of source table - aenaflight_2017_01
-Username for database in environment variable PG_USER 
-Password for database in environment variable PG_PASSWORD
-Default string fo rconnect to database  - localhost:5432/aenaflight
+- Name of source table - aenaflight_2017_01
+- Username for database in environment variable PG_USER 
+- Password for database in environment variable PG_PASSWORD
+- Default string fo rconnect to database  - localhost:5432/aenaflight
 
 OR
 
